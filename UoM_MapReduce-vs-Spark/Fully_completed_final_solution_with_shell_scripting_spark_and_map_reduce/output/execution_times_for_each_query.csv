@@ -1,0 +1,6 @@
+type,hiveql,sparksql
+Carrier Delay Query,23,24
+NAS Delay Query,23,24
+Wheather Delay Query,23,24
+Late Aircraft Delay Query,22,24
+Security Delay Query,26,24
